@@ -1,0 +1,1 @@
+Correction ciblée de la seule erreur TypeScript TS2769 ligne 1285. Remplacer uniquement src/editor/UniversalElementRenderer.tsx. Aucun autre fichier modifié.
